@@ -1,3 +1,4 @@
+<?php
 //https://codex.wordpress.org/File_Header
 
 /**
